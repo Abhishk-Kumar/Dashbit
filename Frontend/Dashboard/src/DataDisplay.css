@@ -1,0 +1,13 @@
+#chart1, #chart2 {
+    margin-top: 30px;
+  }
+  
+  .bar {
+    fill: steelblue;
+  }
+  
+  .arc text {
+    font-size: 12px;
+    fill: white;
+  }
+  
